@@ -7,9 +7,9 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/901630549934866462/947987739213713438/2839cea4fe050b9986ab75825e864a0f.jpg?width=545&height=545">
 </div>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/901630549934866462/947987739213713438/2839cea4fe050b9986ab75825e864a0f.jpg?width=545&height=545">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://www.flaticon.com/br/icone-gratis/html-5_732212)">
 </div>
   
   ##
