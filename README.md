@@ -1,4 +1,4 @@
-## Oiii eu sou a D4rk (´▽`ʃ♡ƪ)
+
 <div align="center">
   <a href="https://github.com/xxxD4rkxxx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxxD4rkxxx&show_icons=fase&theme=dark&include_all_commits=true&count_private=true"/>
